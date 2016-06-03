@@ -1,0 +1,28 @@
+name: VertPharma
+favicon: null
+layout_spectrum: 0.7987711704336107
+typography_spectrum: 0.014553703600540757
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.4052859933581203
+  lightness: 0.08408789616078138
+  saturation: 0.0004817545413970947
+  rhythmicContrast: 0.5517353874165565
+purpose: []
